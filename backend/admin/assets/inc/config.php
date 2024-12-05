@@ -1,7 +1,8 @@
 <?php
 $dbuser="root";
 $dbpass="";
-$host="localhost";
+$host="hospital-managment-system-six.vercel.app
+";
 $db="hmisphp";
 $mysqli=new mysqli($host,$dbuser, $dbpass, $db);
 ?>
